@@ -13,6 +13,7 @@ const Layout = (props: { children: React.ReactNode }) => {
           background: "white",
           marginTop: "100px",
           borderRadius: "10px",
+          padding: "20px",
         }}
       >
         {props.children}

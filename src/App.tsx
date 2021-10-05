@@ -1,6 +1,5 @@
-import { Container, Typography } from "@mui/material"
+import { Typography } from "@mui/material"
 import Layout from "./components/Layout"
-import Navbar from "./components/Navbar"
 
 const App = () => {
   return (
